@@ -1,0 +1,8 @@
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\2.Ahorcado\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\2.Ahorcado\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\2.Ahorcado\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\2.Ahorcado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\2.Ahorcado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\2.Ahorcado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\2.Ahorcado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\2.Ahorcado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
